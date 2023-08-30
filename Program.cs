@@ -19,7 +19,7 @@ class Program
     {
         //ange grader i fahrenheit
         //Argument
-        Console.WriteLine("Skriv in grader i Fahrenheit: ");
+        Console.WriteLine("Skriv in grader i Fahrenheit är du snäll: ");
         int fahrenheit = Convert.ToInt32(Console.ReadLine());
 
         //Anropar Metod fahr_to_cel
